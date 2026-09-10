@@ -2,313 +2,313 @@
 
 ## Core System & Utilities
 
-- <a href="https://www.kernel.org" target="_blank">Linux Kernel</a>
-- <a href="https://systemd.io" target="_blank">systemd</a>
-- <a href="https://www.gnu.org/software/bash" target="_blank">GNU Bash</a>
-- <a href="https://www.gnu.org/software/coreutils" target="_blank">GNU Coreutils</a>
-- <a href="https://www.openssh.com" target="_blank">OpenSSH</a>
-- <a href="https://curl.se" target="_blank">curl</a>
-- <a href="https://www.gnu.org/software/wget" target="_blank">wget</a>
-- <a href="https://git-scm.com" target="_blank">Git</a>
-- <a href="https://www.nano-editor.org" target="_blank">nano</a>
-- <a href="https://www.vim.org" target="_blank">Vim</a>
-- <a href="https://www.gnu.org/software/grep" target="_blank">grep</a>
-- <a href="https://www.gnu.org/software/sed" target="_blank">sed</a>
-- <a href="https://www.gnu.org/software/gawk" target="_blank">awk</a>
+- [Linux Kernel](https://www.kernel.org){:target="_blank"}
+- [systemd](https://systemd.io){:target="_blank"}
+- [GNU Bash](https://www.gnu.org/software/bash){:target="_blank"}
+- [GNU Coreutils](https://www.gnu.org/software/coreutils){:target="_blank"}
+- [OpenSSH](https://www.openssh.com){:target="_blank"}
+- [curl](https://curl.se){:target="_blank"}
+- [wget](https://www.gnu.org/software/wget){:target="_blank"}
+- [Git](https://git-scm.com){:target="_blank"}
+- [nano](https://www.nano-editor.org){:target="_blank"}
+- [Vim](https://www.vim.org){:target="_blank"}
+- [grep](https://www.gnu.org/software/grep){:target="_blank"}
+- [sed](https://www.gnu.org/software/sed){:target="_blank"}
+- [awk](https://www.gnu.org/software/gawk){:target="_blank"}
 
 ## Desktop Environment - MATE
 
-- <a href="https://mate-desktop.org" target="_blank">MATE Desktop</a>
-- <a href="https://github.com/mate-desktop/caja" target="_blank">Caja File Manager</a>
-- <a href="https://github.com/mate-desktop/pluma" target="_blank">Pluma Text Editor</a>
-- <a href="https://github.com/mate-desktop/mate-terminal" target="_blank">MATE Terminal</a>
-- <a href="https://github.com/mate-desktop/mate-panel" target="_blank">MATE Panel</a>
-- <a href="https://github.com/mate-desktop/mate-settings-daemon" target="_blank">MATE Settings Daemon</a>
-- <a href="https://github.com/mate-desktop/mate-control-center" target="_blank">MATE Control Center</a>
-- <a href="https://github.com/mate-desktop/mate-screensaver" target="_blank">MATE Screensaver</a>
-- <a href="https://github.com/mate-desktop/mate-power-manager" target="_blank">MATE Power Manager</a>
-- <a href="https://github.com/mate-desktop/mate-applets" target="_blank">MATE Applets</a>
-- <a href="https://github.com/mate-desktop/marco" target="_blank">Marco Window Manager</a>
+- [MATE Desktop](https://mate-desktop.org){:target="_blank"}
+- [Caja File Manager](https://github.com/mate-desktop/caja){:target="_blank"}
+- [Pluma Text Editor](https://github.com/mate-desktop/pluma){:target="_blank"}
+- [MATE Terminal](https://github.com/mate-desktop/mate-terminal){:target="_blank"}
+- [MATE Panel](https://github.com/mate-desktop/mate-panel){:target="_blank"}
+- [MATE Settings Daemon](https://github.com/mate-desktop/mate-settings-daemon){:target="_blank"}
+- [MATE Control Center](https://github.com/mate-desktop/mate-control-center){:target="_blank"}
+- [MATE Screensaver](https://github.com/mate-desktop/mate-screensaver){:target="_blank"}
+- [MATE Power Manager](https://github.com/mate-desktop/mate-power-manager){:target="_blank"}
+- [MATE Applets](https://github.com/mate-desktop/mate-applets){:target="_blank"}
+- [Marco Window Manager](https://github.com/mate-desktop/marco){:target="_blank"}
 
 ## Translation & CAT Tools
 
-- <a href="https://omegat.org" target="_blank">OmegaT</a>
-- <a href="https://userbase.kde.org/Lokalize" target="_blank">Lokalize</a>
-- <a href="https://www.heartsome.net" target="_blank">Heartsome Translation Studio</a>
-- <a href="https://www.cafetran.com" target="_blank">CafeTran</a>
-- <a href="https://anaphraseus.sourceforge.io" target="_blank">Anaphraseus</a>
-- <a href="https://poedit.net" target="_blank">Poedit</a>
+- [OmegaT](https://omegat.org){:target="_blank"}
+- [Lokalize](https://userbase.kde.org/Lokalize){:target="_blank"}
+- [Heartsome Translation Studio](https://www.heartsome.net){:target="_blank"}
+- [CafeTran](https://www.cafetran.com){:target="_blank"}
+- [Anaphraseus](https://anaphraseus.sourceforge.io){:target="_blank"}
+- [Poedit](https://poedit.net){:target="_blank"}
 
 ## Terminology & Dictionary Tools
 
-- <a href="https://goldendict.org" target="_blank">GoldenDict</a>
-- <a href="https://stardict.sourceforge.net" target="_blank">Stardict</a>
-- <a href="http://aspell.net" target="_blank">Aspell</a>
-- <a href="https://hunspell.github.io" target="_blank">Hunspell</a>
-- <a href="https://languagetool.org" target="_blank">LanguageTool</a>
-- <a href="https://www.apertium.org" target="_blank">Apertium</a>
-- <a href="https://okapiframework.org" target="_blank">Okapi Framework</a>
-- <a href="https://sourceforge.net/projects/lfaligner" target="_blank">LF Aligner</a>
+- [GoldenDict](https://goldendict.org){:target="_blank"}
+- [Stardict](https://stardict.sourceforge.net){:target="_blank"}
+- [Aspell](http://aspell.net){:target="_blank"}
+- [Hunspell](https://hunspell.github.io){:target="_blank"}
+- [LanguageTool](https://languagetool.org){:target="_blank"}
+- [Apertium](https://www.apertium.org){:target="_blank"}
+- [Okapi Framework](https://okapiframework.org){:target="_blank"}
+- [LF Aligner](https://sourceforge.net/projects/lfaligner){:target="_blank"}
 
 ## Office & Productivity Suite
 
-- <a href="https://www.libreoffice.org" target="_blank">LibreOffice</a>
-- <a href="https://www.libreoffice.org/discover/writer" target="_blank">LibreOffice Writer</a>
-- <a href="https://www.libreoffice.org/discover/calc" target="_blank">LibreOffice Calc</a>
-- <a href="https://www.libreoffice.org/discover/impress" target="_blank">LibreOffice Impress</a>
-- <a href="https://www.libreoffice.org/discover/draw" target="_blank">LibreOffice Draw</a>
-- <a href="https://www.libreoffice.org/discover/base" target="_blank">LibreOffice Base</a>
-- <a href="https://www.libreoffice.org/discover/math" target="_blank">LibreOffice Math</a>
-- <a href="https://www.libreoffice.org/discover/calc" target="_blank">LibreOffice Calc Charts</a>
-- <a href="https://uno.documentfoundation.org" target="_blank">UNO</a>
-- <a href="https://en.wikipedia.org/wiki/OpenDocument_Format" target="_blank">OpenDocument Format Support</a>
+- [LibreOffice](https://www.libreoffice.org){:target="_blank"}
+- [LibreOffice Writer](https://www.libreoffice.org/discover/writer){:target="_blank"}
+- [LibreOffice Calc](https://www.libreoffice.org/discover/calc){:target="_blank"}
+- [LibreOffice Impress](https://www.libreoffice.org/discover/impress){:target="_blank"}
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw){:target="_blank"}
+- [LibreOffice Base](https://www.libreoffice.org/discover/base){:target="_blank"}
+- [LibreOffice Math](https://www.libreoffice.org/discover/math){:target="_blank"}
+- [LibreOffice Calc Charts](https://www.libreoffice.org/discover/calc){:target="_blank"}
+- [UNO](https://uno.documentfoundation.org){:target="_blank"}
+- [OpenDocument Format Support](https://en.wikipedia.org/wiki/OpenDocument_Format){:target="_blank"}
 
 ## Web & Internet
 
-- <a href="https://www.mozilla.org/firefox" target="_blank">Firefox</a>
-- <a href="https://www.thunderbird.net" target="_blank">Thunderbird</a>
-- <a href="https://wiki.gnome.org/Apps/Evolution" target="_blank">Evolution Mail</a>
-- <a href="https://pidgin.im" target="_blank">Pidgin</a>
-- <a href="https://filezilla-project.org" target="_blank">FileZilla</a>
-- <a href="https://transmissionbt.com" target="_blank">Transmission</a>
-- <a href="https://wiki.gnome.org/Projects/NetworkManager" target="_blank">NetworkManager</a>
+- [Firefox](https://www.mozilla.org/firefox){:target="_blank"}
+- [Thunderbird](https://www.thunderbird.net){:target="_blank"}
+- [Evolution Mail](https://wiki.gnome.org/Apps/Evolution){:target="_blank"}
+- [Pidgin](https://pidgin.im){:target="_blank"}
+- [FileZilla](https://filezilla-project.org){:target="_blank"}
+- [Transmission](https://transmissionbt.com){:target="_blank"}
+- [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager){:target="_blank"}
 
 ## Graphics & Image Processing
 
-- <a href="https://www.gimp.org" target="_blank">GIMP</a>
-- <a href="https://inkscape.org" target="_blank">Inkscape</a>
-- <a href="https://imagemagick.org" target="_blank">ImageMagick</a>
-- <a href="http://geeqie.sourceforge.net" target="_blank">Geeqie</a>
-- <a href="https://github.com/mate-desktop/eom" target="_blank">Eye of MATE</a>
-- <a href="https://wiki.gnome.org/Apps/Shotwell" target="_blank">Shotwell</a>
-- <a href="https://gitlab.gnome.org/GNOME/simple-scan" target="_blank">Simple Scan</a>
-- <a href="https://www.pdf-shuffler.org" target="_blank">PDF-Shuffler</a>
+- [GIMP](https://www.gimp.org){:target="_blank"}
+- [Inkscape](https://inkscape.org){:target="_blank"}
+- [ImageMagick](https://imagemagick.org){:target="_blank"}
+- [Geeqie](http://geeqie.sourceforge.net){:target="_blank"}
+- [Eye of MATE](https://github.com/mate-desktop/eom){:target="_blank"}
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell){:target="_blank"}
+- [Simple Scan](https://gitlab.gnome.org/GNOME/simple-scan){:target="_blank"}
+- [PDF-Shuffler](https://www.pdf-shuffler.org){:target="_blank"}
 
 ## Multimedia & Audio/Video
 
-- <a href="https://www.videolan.org" target="_blank">VLC Media Player</a>
-- <a href="https://wiki.gnome.org/Apps/Rhythmbox" target="_blank">Rhythmbox</a>
-- <a href="https://www.audacityteam.org" target="_blank">Audacity</a>
-- <a href="https://www.blender.org" target="_blank">Blender</a>
-- <a href="https://ffmpeg.org" target="_blank">FFmpeg</a>
-- <a href="https://handbrake.fr" target="_blank">Handbrake</a>
-- <a href="https://www.kde.org/applications/multimedia/org.kde.kaffeine" target="_blank">Kaffeine</a>
+- [VLC Media Player](https://www.videolan.org){:target="_blank"}
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox){:target="_blank"}
+- [Audacity](https://www.audacityteam.org){:target="_blank"}
+- [Blender](https://www.blender.org){:target="_blank"}
+- [FFmpeg](https://ffmpeg.org){:target="_blank"}
+- [Handbrake](https://handbrake.fr){:target="_blank"}
+- [Kaffeine](https://www.kde.org/applications/multimedia/org.kde.kaffeine){:target="_blank"}
 
 ## PDF & Document Tools
 
-- <a href="https://github.com/mate-desktop/atril" target="_blank">Atril PDF Viewer</a>
-- <a href="https://wiki.gnome.org/Apps/Evince" target="_blank">Evince</a>
-- <a href="https://www.libreoffice.org/discover/draw" target="_blank">LibreOffice Draw</a>
-- <a href="https://www.ghostscript.com" target="_blank">Ghostscript</a>
-- <a href="https://poppler.freedesktop.org" target="_blank">Poppler</a>
+- [Atril PDF Viewer](https://github.com/mate-desktop/atril){:target="_blank"}
+- [Evince](https://wiki.gnome.org/Apps/Evince){:target="_blank"}
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw){:target="_blank"}
+- [Ghostscript](https://www.ghostscript.com){:target="_blank"}
+- [Poppler](https://poppler.freedesktop.org){:target="_blank"}
 
 ## Compression & Archive Tools
 
-- <a href="https://wiki.gnome.org/Apps/FileRoller" target="_blank">File Roller</a>
-- <a href="https://github.com/ib/xarchiver" target="_blank">Xarchiver</a>
-- <a href="https://www.gnu.org/software/tar" target="_blank">tar</a>
-- <a href="https://www.gnu.org/software/gzip" target="_blank">gzip</a>
-- <a href="https://sourceware.org/bzip2" target="_blank">bzip2</a>
-- <a href="http://www.info-zip.org" target="_blank">unzip</a>
-- <a href="https://www.7-zip.org" target="_blank">7-Zip</a>
-- <a href="https://www.rar.com" target="_blank">rar</a>
+- [File Roller](https://wiki.gnome.org/Apps/FileRoller){:target="_blank"}
+- [Xarchiver](https://github.com/ib/xarchiver){:target="_blank"}
+- [tar](https://www.gnu.org/software/tar){:target="_blank"}
+- [gzip](https://www.gnu.org/software/gzip){:target="_blank"}
+- [bzip2](https://sourceware.org/bzip2){:target="_blank"}
+- [unzip](http://www.info-zip.org){:target="_blank"}
+- [7-Zip](https://www.7-zip.org){:target="_blank"}
+- [rar](https://www.rar.com){:target="_blank"}
 
 ## Development & Programming Tools
 
-- <a href="https://www.python.org" target="_blank">Python</a>
-- <a href="https://www.python.org/download/releases/2.7" target="_blank">Python 2</a>
-- <a href="https://www.python.org" target="_blank">Python 3</a>
-- <a href="https://www.perl.org" target="_blank">Perl</a>
-- <a href="https://www.ruby-lang.org" target="_blank">Ruby</a>
-- <a href="https://www.java.com" target="_blank">Java Runtime Environment</a>
-- <a href="https://nodejs.org" target="_blank">Node.js</a>
-- <a href="https://gcc.gnu.org" target="_blank">GCC</a>
-- <a href="https://www.gnu.org/software/make" target="_blank">Make</a>
-- <a href="https://git-scm.com" target="_blank">Git</a>
-- <a href="https://subversion.apache.org" target="_blank">Subversion</a>
-- <a href="https://www.mercurial-scm.org" target="_blank">Mercurial</a>
+- [Python](https://www.python.org){:target="_blank"}
+- [Python 2](https://www.python.org/download/releases/2.7){:target="_blank"}
+- [Python 3](https://www.python.org){:target="_blank"}
+- [Perl](https://www.perl.org){:target="_blank"}
+- [Ruby](https://www.ruby-lang.org){:target="_blank"}
+- [Java Runtime Environment](https://www.java.com){:target="_blank"}
+- [Node.js](https://nodejs.org){:target="_blank"}
+- [GCC](https://gcc.gnu.org){:target="_blank"}
+- [Make](https://www.gnu.org/software/make){:target="_blank"}
+- [Git](https://git-scm.com){:target="_blank"}
+- [Subversion](https://subversion.apache.org){:target="_blank"}
+- [Mercurial](https://www.mercurial-scm.org){:target="_blank"}
 
 ## Text Editors & IDE
 
-- <a href="https://github.com/mate-desktop/pluma" target="_blank">Pluma</a>
-- <a href="https://wiki.gnome.org/Apps/Gedit" target="_blank">gedit</a>
-- <a href="https://github.com/linuxmint/xed" target="_blank">Xed</a>
-- <a href="https://www.vim.org" target="_blank">Vim</a>
-- <a href="https://www.gnu.org/software/emacs" target="_blank">Emacs</a>
-- <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>
-- <a href="https://www.geany.org" target="_blank">Geany</a>
-- <a href="https://kate-editor.org" target="_blank">Kate</a>
+- [Pluma](https://github.com/mate-desktop/pluma){:target="_blank"}
+- [gedit](https://wiki.gnome.org/Apps/Gedit){:target="_blank"}
+- [Xed](https://github.com/linuxmint/xed){:target="_blank"}
+- [Vim](https://www.vim.org){:target="_blank"}
+- [Emacs](https://www.gnu.org/software/emacs){:target="_blank"}
+- [Visual Studio Code](https://code.visualstudio.com){:target="_blank"}
+- [Geany](https://www.geany.org){:target="_blank"}
+- [Kate](https://kate-editor.org){:target="_blank"}
 
 ## Database Tools
 
-- <a href="https://www.sqlite.org" target="_blank">SQLite</a>
-- <a href="https://www.postgresql.org" target="_blank">PostgreSQL Client</a>
-- <a href="https://www.mysql.com" target="_blank">MySQL Client</a>
-- <a href="https://www.phpmyadmin.net" target="_blank">phpMyAdmin</a>
-- <a href="https://dbeaver.io" target="_blank">Dbeaver</a>
+- [SQLite](https://www.sqlite.org){:target="_blank"}
+- [PostgreSQL Client](https://www.postgresql.org){:target="_blank"}
+- [MySQL Client](https://www.mysql.com){:target="_blank"}
+- [phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}
+- [Dbeaver](https://dbeaver.io){:target="_blank"}
 
 ## System Administration & Monitoring
 
-- <a href="https://wiki.gnome.org/Apps/SystemMonitor" target="_blank">System Monitor</a>
-- <a href="https://htop.dev" target="_blank">htop</a>
-- <a href="http://guichaz.free.fr/iotop" target="_blank">iotop</a>
-- <a href="https://github.com/raboof/nethogs" target="_blank">nethogs</a>
-- <a href="http://www.ex-parago.com/~paul/iftop" target="_blank">iftop</a>
-- <a href="http://dag.wiee.rs/home-made/dstat" target="_blank">dstat</a>
-- <a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer" target="_blank">Disk Usage Analyzer</a>
-- <a href="https://github.com/mate-desktop" target="_blank">MATE Disk Utility</a>
-- <a href="https://gparted.org" target="_blank">GParted</a>
-- <a href="https://en.wikipedia.org/wiki/Cron" target="_blank">Cron</a>
+- [System Monitor](https://wiki.gnome.org/Apps/SystemMonitor){:target="_blank"}
+- [htop](https://htop.dev){:target="_blank"}
+- [iotop](http://guichaz.free.fr/iotop){:target="_blank"}
+- [nethogs](https://github.com/raboof/nethogs){:target="_blank"}
+- [iftop](http://www.ex-parago.com/~paul/iftop){:target="_blank"}
+- [dstat](http://dag.wiee.rs/home-made/dstat){:target="_blank"}
+- [Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer){:target="_blank"}
+- [MATE Disk Utility](https://github.com/mate-desktop){:target="_blank"}
+- [GParted](https://gparted.org){:target="_blank"}
+- [Cron](https://en.wikipedia.org/wiki/Cron){:target="_blank"}
 
 ## Fonts & Localization
 
-- <a href="https://dejavu-fonts.github.io" target="_blank">DejaVu Fonts</a>
-- <a href="https://pagure.io/liberation-fonts" target="_blank">Liberation Fonts</a>
-- <a href="https://fonts.google.com/noto" target="_blank">Noto Fonts</a>
-- <a href="https://design.ubuntu.com/font" target="_blank">Ubuntu Fonts</a>
-- <a href="https://packages.ubuntu.com" target="_blank">Chinese Fonts Support</a>
-- <a href="https://packages.ubuntu.com" target="_blank">Japanese Fonts Support</a>
-- <a href="https://packages.ubuntu.com" target="_blank">Korean Fonts Support</a>
-- <a href="https://packages.ubuntu.com" target="_blank">Arabic Fonts Support</a>
-- <a href="https://packages.ubuntu.com" target="_blank">Cyrillic Fonts Support</a>
-- <a href="https://www.gnu.org/software/libc/manual/html_node/Locales.html" target="_blank">Locale Data</a>
-- <a href="https://wiki.ubuntu.com/Ibus" target="_blank">Input Method Framework</a>
-- <a href="https://wiki.gnome.org/Projects/IBus" target="_blank">IBus</a>
-- <a href="https://fcitx-im.org" target="_blank">Fcitx</a>
+- [DejaVu Fonts](https://dejavu-fonts.github.io){:target="_blank"}
+- [Liberation Fonts](https://pagure.io/liberation-fonts){:target="_blank"}
+- [Noto Fonts](https://fonts.google.com/noto){:target="_blank"}
+- [Ubuntu Fonts](https://design.ubuntu.com/font){:target="_blank"}
+- [Chinese Fonts Support](https://packages.ubuntu.com){:target="_blank"}
+- [Japanese Fonts Support](https://packages.ubuntu.com){:target="_blank"}
+- [Korean Fonts Support](https://packages.ubuntu.com){:target="_blank"}
+- [Arabic Fonts Support](https://packages.ubuntu.com){:target="_blank"}
+- [Cyrillic Fonts Support](https://packages.ubuntu.com){:target="_blank"}
+- [Locale Data](https://www.gnu.org/software/libc/manual/html_node/Locales.html){:target="_blank"}
+- [Input Method Framework](https://wiki.ubuntu.com/Ibus){:target="_blank"}
+- [IBus](https://wiki.gnome.org/Projects/IBus){:target="_blank"}
+- [Fcitx](https://fcitx-im.org){:target="_blank"}
 
 ## Security & Encryption
 
-- <a href="https://www.openssl.org" target="_blank">OpenSSL</a>
-- <a href="https://www.openssh.com" target="_blank">OpenSSH</a>
-- <a href="https://gnupg.org" target="_blank">GnuPG</a>
-- <a href="https://wiki.gnome.org/Apps/Seahorse" target="_blank">Seahorse</a>
-- <a href="https://gitlab.com/cryptsetup/cryptsetup" target="_blank">Cryptsetup</a>
-- <a href="https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup" target="_blank">LUKS</a>
+- [OpenSSL](https://www.openssl.org){:target="_blank"}
+- [OpenSSH](https://www.openssh.com){:target="_blank"}
+- [GnuPG](https://gnupg.org){:target="_blank"}
+- [Seahorse](https://wiki.gnome.org/Apps/Seahorse){:target="_blank"}
+- [Cryptsetup](https://gitlab.com/cryptsetup/cryptsetup){:target="_blank"}
+- [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup){:target="_blank"}
 
 ## Libraries & Frameworks
 
-- <a href="https://www.gtk.org" target="_blank">GTK+3</a>
-- <a href="https://wiki.gnome.org/Projects/GLib" target="_blank">GLib</a>
-- <a href="https://www.qt.io" target="_blank">Qt5</a>
-- <a href="https://develop.kde.org/products/frameworks" target="_blank">KDE Frameworks</a>
-- <a href="http://www.pango.org" target="_blank">Pango</a>
-- <a href="https://www.cairographics.org" target="_blank">Cairo</a>
-- <a href="https://www.opengl.org" target="_blank">OpenGL</a>
-- <a href="https://www.vulkan.org" target="_blank">Vulkan</a>
+- [GTK+3](https://www.gtk.org){:target="_blank"}
+- [GLib](https://wiki.gnome.org/Projects/GLib){:target="_blank"}
+- [Qt5](https://www.qt.io){:target="_blank"}
+- [KDE Frameworks](https://develop.kde.org/products/frameworks){:target="_blank"}
+- [Pango](http://www.pango.org){:target="_blank"}
+- [Cairo](https://www.cairographics.org){:target="_blank"}
+- [OpenGL](https://www.opengl.org){:target="_blank"}
+- [Vulkan](https://www.vulkan.org){:target="_blank"}
 
 ## Package Managers & Build Tools
 
-- <a href="https://wiki.debian.org/Apt" target="_blank">APT</a>
-- <a href="https://wiki.debian.org/dpkg" target="_blank">dpkg</a>
-- <a href="https://help.ubuntu.com/community/Synaptic" target="_blank">Synaptic</a>
-- <a href="https://wiki.ubuntu.com/SoftwareCenter" target="_blank">Ubuntu Software Center</a>
-- <a href="https://www.gnu.org/software/autoconf" target="_blank">Autoconf</a>
-- <a href="https://www.gnu.org/software/automake" target="_blank">Automake</a>
-- <a href="https://cmake.org" target="_blank">CMake</a>
-- <a href="https://mesonbuild.com" target="_blank">Meson</a>
-- <a href="https://www.freedesktop.org/wiki/Software/pkg-config" target="_blank">pkg-config</a>
+- [APT](https://wiki.debian.org/Apt){:target="_blank"}
+- [dpkg](https://wiki.debian.org/dpkg){:target="_blank"}
+- [Synaptic](https://help.ubuntu.com/community/Synaptic){:target="_blank"}
+- [Ubuntu Software Center](https://wiki.ubuntu.com/SoftwareCenter){:target="_blank"}
+- [Autoconf](https://www.gnu.org/software/autoconf){:target="_blank"}
+- [Automake](https://www.gnu.org/software/automake){:target="_blank"}
+- [CMake](https://cmake.org){:target="_blank"}
+- [Meson](https://mesonbuild.com){:target="_blank"}
+- [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config){:target="_blank"}
 
 ## QA & Testing Tools
 
-- <a href="https://www.laurenceanthony.net/software/antconc" target="_blank">AntConc</a>
-- <a href="https://okapiframework.org" target="_blank">Okapi CheckMate</a>
-- <a href="https://okapiframework.org" target="_blank">QA Check Tools</a>
-- <a href="https://www.selenium.dev" target="_blank">Selenium</a>
-- <a href="https://pytest.org" target="_blank">Pytest</a>
-- <a href="https://junit.org" target="_blank">JUnit</a>
+- [AntConc](https://www.laurenceanthony.net/software/antconc){:target="_blank"}
+- [Okapi CheckMate](https://okapiframework.org){:target="_blank"}
+- [QA Check Tools](https://okapiframework.org){:target="_blank"}
+- [Selenium](https://www.selenium.dev){:target="_blank"}
+- [Pytest](https://pytest.org){:target="_blank"}
+- [JUnit](https://junit.org){:target="_blank"}
 
 ## Documentation & Help Tools
 
-- <a href="https://man7.org/linux/man-pages" target="_blank">Man Pages</a>
-- <a href="https://www.gnu.org/software/texinfo" target="_blank">Info Pages</a>
-- <a href="https://wiki.gnome.org/Apps/Yelp" target="_blank">Yelp Help Viewer</a>
-- <a href="https://www.doxygen.nl" target="_blank">Doxygen</a>
-- <a href="https://www.sphinx-doc.org" target="_blank">Sphinx</a>
+- [Man Pages](https://man7.org/linux/man-pages){:target="_blank"}
+- [Info Pages](https://www.gnu.org/software/texinfo){:target="_blank"}
+- [Yelp Help Viewer](https://wiki.gnome.org/Apps/Yelp){:target="_blank"}
+- [Doxygen](https://www.doxygen.nl){:target="_blank"}
+- [Sphinx](https://www.sphinx-doc.org){:target="_blank"}
 
 ## Additional Utilities
 
-- <a href="https://github.com/mate-desktop/mate-calc" target="_blank">Calculator (MATE Calc)</a>
-- <a href="https://wiki.gnome.org/Apps/Calendar" target="_blank">Calendar (GNOME Calendar)</a>
-- <a href="https://wiki.gnome.org/Apps/Tomboy" target="_blank">Notes (Tomboy)</a>
-- <a href="https://wiki.gnome.org/Apps/Clocks" target="_blank">Clock</a>
-- <a href="https://wiki.gnome.org/Apps/Maps" target="_blank">Maps</a>
-- <a href="https://wiki.gnome.org/Apps/Weather" target="_blank">Weather</a>
-- <a href="https://wiki.gnome.org/Apps/Photos" target="_blank">Photos</a>
-- <a href="https://wiki.gnome.org/Apps/Music" target="_blank">Music</a>
-- <a href="https://wiki.gnome.org/Apps/Videos" target="_blank">Videos</a>
-- <a href="https://wiki.gnome.org/Apps/Files" target="_blank">Nautilus</a>
-- <a href="https://github.com/linuxmint/nemo" target="_blank">Nemo</a>
-- <a href="https://doublecmd.sourceforge.io" target="_blank">Double Commander</a>
-- <a href="https://www.ghisler.com" target="_blank">Total Commander</a>
+- [Calculator (MATE Calc)](https://github.com/mate-desktop/mate-calc){:target="_blank"}
+- [Calendar (GNOME Calendar)](https://wiki.gnome.org/Apps/Calendar){:target="_blank"}
+- [Notes (Tomboy)](https://wiki.gnome.org/Apps/Tomboy){:target="_blank"}
+- [Clock](https://wiki.gnome.org/Apps/Clocks){:target="_blank"}
+- [Maps](https://wiki.gnome.org/Apps/Maps){:target="_blank"}
+- [Weather](https://wiki.gnome.org/Apps/Weather){:target="_blank"}
+- [Photos](https://wiki.gnome.org/Apps/Photos){:target="_blank"}
+- [Music](https://wiki.gnome.org/Apps/Music){:target="_blank"}
+- [Videos](https://wiki.gnome.org/Apps/Videos){:target="_blank"}
+- [Nautilus](https://wiki.gnome.org/Apps/Files){:target="_blank"}
+- [Nemo](https://github.com/linuxmint/nemo){:target="_blank"}
+- [Double Commander](https://doublecmd.sourceforge.io){:target="_blank"}
+- [Total Commander](https://www.ghisler.com){:target="_blank"}
 
 ## Printing & Scanning
 
-- <a href="https://www.cups.org" target="_blank">CUPS</a>
-- <a href="http://www.sane-project.org" target="_blank">SANE</a>
-- <a href="https://gitlab.gnome.org/GNOME/simple-scan" target="_blank">Simple Scan</a>
-- <a href="http://www.xsane.org" target="_blank">xsane</a>
-- <a href="https://sourceforge.net/projects/hplip" target="_blank">Hplip</a>
-- <a href="https://www.openprinting.org/foomatic" target="_blank">Foomatic</a>
+- [CUPS](https://www.cups.org){:target="_blank"}
+- [SANE](http://www.sane-project.org){:target="_blank"}
+- [Simple Scan](https://gitlab.gnome.org/GNOME/simple-scan){:target="_blank"}
+- [xsane](http://www.xsane.org){:target="_blank"}
+- [Hplip](https://sourceforge.net/projects/hplip){:target="_blank"}
+- [Foomatic](https://www.openprinting.org/foomatic){:target="_blank"}
 
 ## Terminal & Shell
 
-- <a href="https://github.com/mate-desktop/mate-terminal" target="_blank">MATE Terminal</a>
-- <a href="https://wiki.gnome.org/Apps/Terminal" target="_blank">GNOME Terminal</a>
-- <a href="https://konsole.kde.org" target="_blank">Konsole</a>
-- <a href="https://invisible-island.net/xterm" target="_blank">xterm</a>
-- <a href="https://www.gnu.org/software/screen" target="_blank">screen</a>
-- <a href="https://github.com/tmux/tmux/wiki" target="_blank">tmux</a>
-- <a href="https://gnunn1.github.io/tilix-web" target="_blank">Tilix</a>
+- [MATE Terminal](https://github.com/mate-desktop/mate-terminal){:target="_blank"}
+- [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal){:target="_blank"}
+- [Konsole](https://konsole.kde.org){:target="_blank"}
+- [xterm](https://invisible-island.net/xterm){:target="_blank"}
+- [screen](https://www.gnu.org/software/screen){:target="_blank"}
+- [tmux](https://github.com/tmux/tmux/wiki){:target="_blank"}
+- [Tilix](https://gnunn1.github.io/tilix-web){:target="_blank"}
 
 ## Window Managers & Display
 
-- <a href="https://github.com/mate-desktop/marco" target="_blank">Marco</a>
-- <a href="http://www.compiz.org" target="_blank">Compiz</a>
-- <a href="https://www.x.org" target="_blank">X.Org</a>
-- <a href="https://wayland.freedesktop.org" target="_blank">Wayland</a>
-- <a href="https://wayland.freedesktop.org" target="_blank">XWayland</a>
-- <a href="https://docs.xfce.org/xfce/xfwm4/start" target="_blank">Xfwm4</a>
+- [Marco](https://github.com/mate-desktop/marco){:target="_blank"}
+- [Compiz](http://www.compiz.org){:target="_blank"}
+- [X.Org](https://www.x.org){:target="_blank"}
+- [Wayland](https://wayland.freedesktop.org){:target="_blank"}
+- [XWayland](https://wayland.freedesktop.org){:target="_blank"}
+- [Xfwm4](https://docs.xfce.org/xfce/xfwm4/start){:target="_blank"}
 
 ## Sound & Audio
 
-- <a href="https://www.freedesktop.org/wiki/Software/PulseAudio" target="_blank">PulseAudio</a>
-- <a href="https://www.alsa-project.org" target="_blank">ALSA</a>
-- <a href="https://jackaudio.org" target="_blank">JACK</a>
-- <a href="https://freedesktop.org/software/pulseaudio/pavucontrol" target="_blank">Pavucontrol</a>
-- <a href="https://qjackctl.sourceforge.io" target="_blank">Qjackctl</a>
+- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio){:target="_blank"}
+- [ALSA](https://www.alsa-project.org){:target="_blank"}
+- [JACK](https://jackaudio.org){:target="_blank"}
+- [Pavucontrol](https://freedesktop.org/software/pulseaudio/pavucontrol){:target="_blank"}
+- [Qjackctl](https://qjackctl.sourceforge.io){:target="_blank"}
 
 ## Virtualization & Emulation
 
-- <a href="https://www.qemu.org" target="_blank">QEMU</a>
-- <a href="https://www.virtualbox.org" target="_blank">VirtualBox</a>
-- <a href="https://www.linux-kvm.org" target="_blank">KVM</a>
-- <a href="https://libvirt.org" target="_blank">Libvirt</a>
-- <a href="https://www.winehq.org" target="_blank">Wine</a>
-- <a href="https://www.dosbox.com" target="_blank">Dosbox</a>
-- <a href="https://www.mamedev.org" target="_blank">MAME</a>
+- [QEMU](https://www.qemu.org){:target="_blank"}
+- [VirtualBox](https://www.virtualbox.org){:target="_blank"}
+- [KVM](https://www.linux-kvm.org){:target="_blank"}
+- [Libvirt](https://libvirt.org){:target="_blank"}
+- [Wine](https://www.winehq.org){:target="_blank"}
+- [Dosbox](https://www.dosbox.com){:target="_blank"}
+- [MAME](https://www.mamedev.org){:target="_blank"}
 
 ## Localization Tools
 
-- <a href="https://www.gnu.org/software/gettext" target="_blank">Gettext</a>
-- <a href="https://po4a.org" target="_blank">Po4a</a>
-- <a href="https://weblate.org" target="_blank">Weblate</a>
-- <a href="http://pootle.translatehouse.org" target="_blank">Pootle</a>
-- <a href="https://crowdin.com" target="_blank">Crowdin</a>
+- [Gettext](https://www.gnu.org/software/gettext){:target="_blank"}
+- [Po4a](https://po4a.org){:target="_blank"}
+- [Weblate](https://weblate.org){:target="_blank"}
+- [Pootle](http://pootle.translatehouse.org){:target="_blank"}
+- [Crowdin](https://crowdin.com){:target="_blank"}
 
 ## System Language Support
 
-- <a href="https://wiki.ubuntu.com/English" target="_blank">English Support</a>
-- <a href="https://wiki.ubuntu.com/Spanish" target="_blank">Spanish Support</a>
-- <a href="https://wiki.ubuntu.com/French" target="_blank">French Support</a>
-- <a href="https://wiki.ubuntu.com/German" target="_blank">German Support</a>
-- <a href="https://wiki.ubuntu.com/Italian" target="_blank">Italian Support</a>
-- <a href="https://wiki.ubuntu.com/Portuguese" target="_blank">Portuguese Support</a>
-- <a href="https://wiki.ubuntu.com/Chinese" target="_blank">Chinese Support</a>
-- <a href="https://wiki.ubuntu.com/Japanese" target="_blank">Japanese Support</a>
-- <a href="https://wiki.ubuntu.com/Korean" target="_blank">Korean Support</a>
-- <a href="https://wiki.ubuntu.com/Arabic" target="_blank">Arabic Support</a>
-- <a href="https://wiki.ubuntu.com/Russian" target="_blank">Russian Support</a>
-- <a href="https://wiki.ubuntu.com/Greek" target="_blank">Greek Support</a>
+- [English Support](https://wiki.ubuntu.com/English){:target="_blank"}
+- [Spanish Support](https://wiki.ubuntu.com/Spanish){:target="_blank"}
+- [French Support](https://wiki.ubuntu.com/French){:target="_blank"}
+- [German Support](https://wiki.ubuntu.com/German){:target="_blank"}
+- [Italian Support](https://wiki.ubuntu.com/Italian){:target="_blank"}
+- [Portuguese Support](https://wiki.ubuntu.com/Portuguese){:target="_blank"}
+- [Chinese Support](https://wiki.ubuntu.com/Chinese){:target="_blank"}
+- [Japanese Support](https://wiki.ubuntu.com/Japanese){:target="_blank"}
+- [Korean Support](https://wiki.ubuntu.com/Korean){:target="_blank"}
+- [Arabic Support](https://wiki.ubuntu.com/Arabic){:target="_blank"}
+- [Russian Support](https://wiki.ubuntu.com/Russian){:target="_blank"}
+- [Greek Support](https://wiki.ubuntu.com/Greek){:target="_blank"}
 
 ---
 
@@ -326,4 +326,4 @@ or
 dpkg -l
 ```
 
-All links point to the official project or website for each application/package and open in a new tab.
+All links open in a new tab and point to the official project or website for each application/package.
